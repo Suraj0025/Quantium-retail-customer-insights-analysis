@@ -1,8 +1,6 @@
 # Quantium-retail-customer-insights-analysis
 End-to-end data analytics project from Quantium's Forage program. Analyzed customer purchase behavior, evaluated store trial performance, and developed strategic insights using Python, Pandas, Matplotlib, Seaborn, and SciPy to support retail business decisions.
 
-# Quantium Retail Customer Insights Analysis
-
 A comprehensive data analytics project completed through the *Quantium Virtual Experience Program by Forage*. This project focuses on real-world retail data and involves analyzing customer purchase behavior, evaluating store trial performance, and generating strategic business recommendations.
 
 ---
